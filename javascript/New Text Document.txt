@@ -1,0 +1,7 @@
+<script>
+function test()
+{
+alert("welcome");
+}
+</script>
+<input type="button"name="b1"value="submit" on click="test()"/>
